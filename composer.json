@@ -1,0 +1,24 @@
+{
+  "name": "as/login-clearification",
+  "description": "Adds the word 'Login' to the ",
+  "type": "shopware-platform-plugin",
+  "version": "v0.1.0",
+  "license": "proprietary",
+  "authors": [
+    {
+        "name": "A&S PMO"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "ASLoginClearification\\": "src/"
+    }
+  },
+  "extra": {
+    "shopware-plugin-class": "ASLoginClearification\\ASLoginClearification",
+    "label": {
+      "de-DE": "Klare Darstellung des Logins",
+      "en-GB": "Clarification for user login"
+    }
+  }
+}
