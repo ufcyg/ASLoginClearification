@@ -1,6 +1,6 @@
 {
   "name": "as/login-clearification",
-  "description": "Adds the word 'Login' to the ",
+  "description": "Adds the word 'Login' to the LoginWidget",
   "type": "shopware-platform-plugin",
   "version": "v0.1.0",
   "license": "proprietary",
